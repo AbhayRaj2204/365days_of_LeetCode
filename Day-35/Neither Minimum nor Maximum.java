@@ -1,0 +1,6 @@
+class Solution {
+    public int findNonMinOrMax(int[] nums) {
+        Arrays.sort(nums);
+        return nums.length <= 2 ? -1 : nums[1];
+    }
+}
