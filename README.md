@@ -1,1 +1,1 @@
-# 100days_of_LeetCode
+# 365days_of_LeetCode
